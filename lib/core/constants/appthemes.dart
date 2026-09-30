@@ -439,7 +439,7 @@ class AppTheme {
     colorScheme: const ColorScheme.dark(
       primary: AppColors.primary,
       onPrimary: AppColors.white,
-
+//
       secondary: AppColors.secondary,
       onSecondary: AppColors.white,
 
