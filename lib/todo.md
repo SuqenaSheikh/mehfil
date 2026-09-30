@@ -1,0 +1,4 @@
+-> set up themes
+-> add colors
+-> add assets
+-> complete welcome screens
