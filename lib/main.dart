@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:mehfilapp/features/welcome_screens/presentation/screens/splash_screen.dart';
 
 import 'features/home/presentation/screens/home.dart';
 
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: .fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const Home(),
+      home: const SplashScreen(),
     );
   }
 }
