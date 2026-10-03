@@ -11,11 +11,13 @@ class Assets {
    static const String onboard2dark = 'assets/images/onboard2dark.png';
    static const String onboard3dark = 'assets/images/onboard3dark.png';
    static const String budgetImage = 'assets/images/budget.png';
-
+*/
   /// SVGs
-  static const String home = 'assets/svgs/home.svg';
-  static const String budget = 'assets/svgs/budget.svg';
-  static const String insights = 'assets/svgs/insights.svg';
+  static const String sd = 'assets/svgs/splashdot.svg';
+  static const String ss = 'assets/svgs/splashsun.svg';
+
+
+  /*static const String insights = 'assets/svgs/insights.svg';
   static const String settings = 'assets/svgs/settings.svg';
   static const String notif = 'assets/svgs/notif.svg';
   static const String drpDown = 'assets/svgs/dropArrow.svg';
@@ -64,8 +66,9 @@ class Assets {
   static const String search = 'assets/svgs/searchsuffix.svg';
   static const String question = 'assets/svgs/question.svg';
   static const String forward = 'assets/svgs/forward.svg';
-  static const String aboutUS = 'assets/svgs/aboutus.svg';
+  static const String aboutUS = 'assets/svgs/aboutus.svg';*/
   ///Lottie
+/*
 
   static const String savingLottie = 'assets/lottie/savingMoney.json';
   static const String adLoad = 'assets/lottie/adloading.json';
