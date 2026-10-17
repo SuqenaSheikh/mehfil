@@ -11,7 +11,9 @@ class Assets {
    static const String onboard2dark = 'assets/images/onboard2dark.png';
    static const String onboard3dark = 'assets/images/onboard3dark.png';
    static const String budgetImage = 'assets/images/budget.png';
+
 */
+  static const String mehfil = 'assets/images/mehfil.png';
   /// SVGs
   static const String sd = 'assets/svgs/splashdot.svg';
   static const String ss = 'assets/svgs/splashsun.svg';

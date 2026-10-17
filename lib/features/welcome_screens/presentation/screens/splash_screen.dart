@@ -5,6 +5,8 @@ import 'package:flutter/material.dart';
 import '../../../../core/constants/appcolors.dart';
 import 'dart:math' as Math;
 
+import '../../../../core/constants/assets.dart';
+
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
 
@@ -215,7 +217,7 @@ class _SplashScreenState extends State<SplashScreen>
               ),
               padding: const EdgeInsets.all(22),
               child: Image.asset(
-                'assets/images/mehfil.png',
+                Assets.mehfil,
                 fit: BoxFit.contain,
               ),
             ),
